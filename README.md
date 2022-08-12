@@ -18,9 +18,15 @@ Landing USA -> Language Program -> Computer Science major at Ohio University -> 
 
 :point_up_2: Ask me how I got here.
 
-Learing is an endless journey, I'm always competing against myself 
+Learning is an endless journey, I'm always competing against myself to become a better web developer; Learning is the part of my life, I have embraced it all the time. 
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+:sparkles: Fun Facts!
+- this year (2022) is the 10th year I have arrived in United States and I didn't know any English 10 years ago
+- I have one cat and a beautiful daughter 
+
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/yuhan-zhang-4898481a1/)
+
 
