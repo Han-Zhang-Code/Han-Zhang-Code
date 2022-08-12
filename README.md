@@ -1,5 +1,4 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/103379415/184451234-680ebd35-0afc-4b41-8af9-ab82b3c9d8f2.jpg)
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/103379415/184451333-f21ffd62-37da-4511-811c-4a6eadd1445e.jpg)
 
 
 ## Hello World 👋
