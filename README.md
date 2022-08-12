@@ -1,4 +1,6 @@
-### Hi there 👋
+![pexels-vie-studio-6168064](https://user-images.githubusercontent.com/103379415/184438227-fd3944c6-db9e-4a92-ac38-7cb94a5aaf7c.jpg)
+
+## Hello World 👋
 ![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Han-Zhang-Code&hide=issues,stars,contribs&bg_color=d9edeb)
 <!--
 **Han-Zhang-Code/Han-Zhang-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
