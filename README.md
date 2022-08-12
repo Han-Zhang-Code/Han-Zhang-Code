@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Han-Zhang-Code)
+![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Han-Zhang-Code&hide=issues)
 <!--
 **Han-Zhang-Code/Han-Zhang-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
