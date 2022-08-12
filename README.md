@@ -3,17 +3,18 @@
 
 ## Hello World 👋
 ![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Han-Zhang-Code&hide=issues,stars,contribs&bg_color=d9edeb)
-<!--
-**Han-Zhang-Code/Han-Zhang-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 currently working on leetcode
+- 🌱 Stack - React, JavaScript, CSS3, HTML5, Node.js, Express
+- :hammer: Tools - VScode, npm, PostgreSql, Bootstrap, Babel, Webpack, Git, GitHub, Slack
+
+
+## 💬 About Me
+
+I'm Han, a web developer ready for the programing industry, I know JavaScript, React, Node.js, CSS, and more
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
