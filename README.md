@@ -24,7 +24,6 @@ Learning is an endless journey, I'm always competing against myself to become a 
 - this year (2022) is the 10th year I have arrived in United States and I didn't know any English 10 years ago
 - I have one cat and a beautiful daughter 
 
-
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/yuhan-zhang-4898481a1/)
