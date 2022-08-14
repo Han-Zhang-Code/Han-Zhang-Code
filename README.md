@@ -9,7 +9,6 @@
 - 🌱 Stack - React, JavaScript, CSS3, HTML5, Node.js, Express
 - :hammer: Tools - VScode, npm, PostgreSql, Bootstrap, Babel, Webpack, Git, GitHub, Slack
 
-
 ## 💬 About Me
 
 I'm Han, a full-stack web developer ready for the programing industry, I know JavaScript, React, Node.js, CSS, and more, and I'm open to learning anything
