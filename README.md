@@ -20,7 +20,7 @@ Learning is an endless journey, I'm always competing against myself to become a 
 
 :sparkles: Fun Facts!
 - This year (2022) is the 10th year I have arrived in United States and I didn't know any English 10 years ago
-- I have one cat and a beautiful daughter 
+- I have one cat and a beautiful daughter named Aurora
 
 ## 📫 Let's Connect!
 
