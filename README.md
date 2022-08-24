@@ -25,6 +25,3 @@ Learning is an endless journey, I'm always competing against myself to become a 
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/yuhan-zhang-4898481a1/)
-
-
-for green
