@@ -12,7 +12,7 @@
 
 I'm Han, a full-stack web developer ready for the programing industry, I know JavaScript, React, Node.js, CSS, and more, and I'm open to learning anything
 
-Landing USA -> Language Program -> BS Computer Science at Ohio University -> MS Information Science at George Washington University -> Web Developer
+Landing USA -> BS Computer Science at Ohio University -> MS Information Science at George Washington University -> Web Developer
 
 :point_up_2: Ask me how I got here.
 
