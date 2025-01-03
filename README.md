@@ -19,8 +19,7 @@ Landing USA -> BS Computer Science at Ohio University -> MS Information Science 
 Learning is an endless journey, I'm always competing against myself to become a better web developer; Learning is the part of my life, I have embraced it all the time. 
 
 :sparkles: Fun Facts!
-- This year (2022) is the 10th year I have arrived in United States and I didn't know any English 10 years ago
-- I have one cat and a beautiful daughter
+- I have two cats and two beautiful daughters
 
 ## 📫 Let's Connect!
 
